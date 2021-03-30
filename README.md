@@ -8,3 +8,5 @@ Micro-service Spring Boot + Spring Data + NOSQL (MongoDB) +Crud Operations
 #sudo apt install mongodb
 
 #sudo systemctl status mongodb
+
+#create database MyAccount
